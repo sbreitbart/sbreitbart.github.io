@@ -81,39 +81,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sophie Breitbart"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Toronto, ON"
   employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=vx2HzukAAAAJ"
   email            :
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  # uri              :
-  # bitbucket        :
-  # codepen          :
-  # dribbble         :
-  # flickr           :
-  # facebook         :
-  # foursquare       :
   github           : "academicpages"
-  # google_plus      :
-  # keybase          :
-  # instagram        :
-  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  # lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  # pinterest        :
+  orcid            : "https://orcid.org/0000-0001-9641-9786"
   # soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
-  # steam            :
-  # tumblr           :
-  twitter          : "replacethistwitterhandle"
-  # vine             :
-  # weibo            :
-  # xing             :
+  twitter          : "@SophieBreitbart"
   # youtube          :
   # wikipedia        :
 
