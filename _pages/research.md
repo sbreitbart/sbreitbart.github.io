@@ -5,12 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-In my PhD, I am applying concepts from spatial ecology and population genetics to test the hypothesis that the spatial configuration and environmental conditions of urban areas influence adaptive and non-adaptive evolutionary processes in a native plant species of high conservation value, *Asclepias syriaca* (common milkweed).
+In my PhD, I am applying concepts from **spatial ecology** and **population genetics** to test the hypothesis that the spatial configuration and environmental conditions of urban areas influence adaptive and non-adaptive evolutionary processes in a native plant species of high conservation value, *Asclepias syriaca* (common milkweed).
 
 I'm currently researching
-  1) how urbanization affects the evolutionary ecology of an animal-pollinated plant and its pollinators,
-  2) the extent of genetic divergence among A. syriaca subpopulations in response to urbanization and urban green corridors, and
-  3) the consistency with which non-adaptive evolutionary processes shape the genomic structure of multiple urban metapopulations.
+  1. How urbanization affects the evolutionary ecology of an animal-pollinated plant and its pollinators,
+  2. The extent of genetic divergence among A. syriaca subpopulations in response to urbanization and urban green corridors, and
+  3. The consistency with which non-adaptive evolutionary processes shape the genomic structure of multiple urban metapopulations.
   
   
 
