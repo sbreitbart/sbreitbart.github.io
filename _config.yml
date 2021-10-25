@@ -82,21 +82,17 @@ analytics:
 # Site Author
 author:
   name             : "Sophie Breitbart"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Headshot_SophieBreitbart_zoom.jpg"
+  bio              : "PhD Candidate studying (buzzwords): Urban evolutionary ecology, landscape genetics, milkweed. Pronouns: she/her."
   location         : "Toronto, ON"
-  employer         :
+  employer         : "University of Toronto, Dept. of Ecology & Evolutionary Biology"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=vx2HzukAAAAJ"
-  email            :
-  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "academicpages"
+  email            : "sophie.breitbart ---AT--- mail.utoronto.ca"
+  github           : "sbreitbart"
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-9641-9786"
-  # soundcloud       :
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   twitter          : "@SophieBreitbart"
-  # youtube          :
-  # wikipedia        :
 
 
 # Reading Files
