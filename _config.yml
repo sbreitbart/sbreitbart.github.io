@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Sophie Breitbart"
-  avatar           : "/images/profile.jpg"
+  avatar           : "https://sbreitbart.github.io/website/images/profile.jpg"
   bio              : "PhD Candidate studying urban evolutionary ecology, landscape genetics, milkweed. Pronouns: she/her."
   employer         : "University of Toronto"
   location         : "EEB Department"
