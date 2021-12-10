@@ -82,11 +82,10 @@ analytics:
 # Site Author
 author:
   name             : "Sophie Breitbart"
-  avatar           : "images/profile.jpg/"
+  avatar           : "/images/profile.JPG/"
   bio              : "PhD Candidate studying urban evolutionary ecology, landscape genetics, milkweed. Pronouns: she/her."
   employer         : "University of Toronto"
-  location         : > Dept. of Ecology &
-                       Evolutionary Biology
+  location         : "EEB Department"
   email            : "sophie.breitbart@mail.utoronto.ca"
   orcid            : "https://orcid.org/0000-0001-9641-9786"
   github           : "sbreitbart"
