@@ -82,10 +82,12 @@ analytics:
 # Site Author
 author:
   name             : "Sophie Breitbart"
-  avatar           : "/Headshot_SophieBreitbart_zoom.jpg/"
+  avatar           : "images/profile.png/"
   bio              : "PhD Candidate studying urban evolutionary ecology, landscape genetics, milkweed. Pronouns: she/her."
   employer         : "University of Toronto"
-  location         : "Dept. of Ecology & Evolutionary Biology"
+  location         : >
+                    "Dept. of Ecology &
+                     Evolutionary Biology"
   email            : "sophie.breitbart@mail.utoronto.ca"
   orcid            : "https://orcid.org/0000-0001-9641-9786"
   github           : "sbreitbart"
@@ -232,7 +234,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
