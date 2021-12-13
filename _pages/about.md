@@ -16,7 +16,7 @@ Hi there! I am a PhD candidate in the Department of Ecology and Evolutionary Bio
 
 **My research focuses on how urbanization, or the development of cities, influences the ecology and evolution of common milkweed** (a favorite of Monarch butterflies). More and more people are moving to cities- currently half the human population lives in urban areas- and by understanding how these unique environments affect wildlife on the long term, we can design resilient cities that act as healthy ecosystems for wildlife as well as people.  
 
-![On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim](/website/images/2018_fieldwork.jpg "On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim")
+![On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim](2018_fieldwork.jpg "On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim")
 
 
 I'm also developing a keen interest in coding well and teaching how to do so. I am a certified instructor with [The Carpentries](https://carpentries.org/).
