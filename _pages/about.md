@@ -20,10 +20,9 @@ Hi there! I am a PhD candidate in the Department of Ecology and Evolutionary Bio
 ![Growth chamber](./images/growth_chamber.jpg "Growth chamber") ![KSR 2021](./images/KSR_2021.jpeg "KSR 2021")
 
 
-| | |
 |:-------------------------:|:-------------------------:|
-|< img width = "1604" alt = "alt text 1" src = ./images/2018_fieldwork.jpg> | <img width = "1604" alt = "alt text 2" src = ./images/500x300.png >|
-|< img width = "1604" alt = "alt text 3" src = ./images/growth_chamber.jpg > | <img width="1604" alt = "alt text 4" src = ./images/KSR_2021.jpeg>|
+|< img width = "1604" alt = "alt text 1" src = "./images/2018_fieldwork.jpg"> | <img width = "1604" alt = "alt text 2" src = "./images/500x300.png" >|
+|< img width = "1604" alt = "alt text 3" src = "./images/growth_chamber.jpg" > | <img width="1604" alt = "alt text 4" src = "./images/KSR_2021.jpeg">|
 
 
 I'm also developing a keen interest in coding well and teaching how to do so. I am a certified instructor with [The Carpentries](https://carpentries.org/).
