@@ -5,4 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Under construction**
+
+# **Under construction**
+## *Current website at [www.sophiebreitbart.wordpress.com](www.sophiebreitbart.wordpress.com)*
