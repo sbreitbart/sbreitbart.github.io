@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! I am a PhD candidate in the Department of Ecology and Evolutionary Biology at the [University of Toronto](https://eeb.utoronto.ca/). My advisors are Drs. [Marc Johnson](https://evoecolab.wordpress.com/) and [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab).  
 
-**My research focuses on how urbanization influences the ecology and evolution of common milkweed** (a favorite of Monarch butterflies). More and more people are moving to cities- currently half the human population lives in urban areas!- and by understanding how these unique environments affect wildlife on the long term, we can design resilient cities that act as healthy ecosystems for wildlife as well as people.  
+**My research focuses on how urbanization influences the ecology and evolution of common milkweed** (a favorite of Monarch butterflies). More and more people are moving to cities— did you know that over half the human population lives in urban areas?!— and by understanding how these unique environments affect wildlife on the long term, we can design resilient cities that act as healthy ecosystems for wildlife as well as people.  
 
 I'm also developing a keen interest in coding well and teaching how to do so. I have co-instructed multiple R coding workshops at conferences (e.g. [CSEE, SORTEE](https://afilazzola.github.io/FastR/)) and [locally through UofT](https://sbreitbart.github.io/BGSS_Retreat_2021_Workshop/). I'm also a newly certified instructor with [The Carpentries](https://carpentries.org/). 
 
