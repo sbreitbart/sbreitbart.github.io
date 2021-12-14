@@ -16,13 +16,9 @@ Hi there! I am a PhD candidate in the Department of Ecology and Evolutionary Bio
 
 **My research focuses on how urbanization, or the development of cities, influences the ecology and evolution of common milkweed** (a favorite of Monarch butterflies). More and more people are moving to cities- currently half the human population lives in urban areas- and by understanding how these unique environments affect wildlife on the long term, we can design resilient cities that act as healthy ecosystems for wildlife as well as people.  
 
-![On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim](./images/2018_fieldwork.jpg "On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim") ![test](./images/500x300.png "test")
-![Growth chamber](./images/growth_chamber.jpg "Growth chamber") ![KSR 2021](./images/KSR_2021.jpeg "KSR 2021")
-
-
 |:-------------------------:|:-------------------------:|
-|< img width = "1604" alt = "alt text 1" src = "./images/2018_fieldwork.jpg"> | <img width = "1604" alt = "alt text 2" src = "./images/500x300.png" >|
-|< img width = "1604" alt = "alt text 3" src = "./images/growth_chamber.jpg" > | <img width="1604" alt = "alt text 4" src = "./images/KSR_2021.jpeg">|
+|< img width = "1604" alt = "On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" src = "./images/2018_fieldwork.jpg"> | <img width = "1604" alt = "Milkweed growing in downtown Toronto" src = "./images/mw_multi.jpg" >|
+|< img width = "1604" alt = "Milkweed seedlings in growth chamber" src = "./images/growth_chamber.jpg" > | <img width="1604" alt = "Surveying milkweed in common garden experiment" src = "./images/KSR_2021.jpeg">|
 
 
 I'm also developing a keen interest in coding well and teaching how to do so. I am a certified instructor with [The Carpentries](https://carpentries.org/).
