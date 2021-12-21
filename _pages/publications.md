@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Peer-Reviewed
+<br />
 
+# Peer-Reviewed
 ## Journal Articles
 
 2\. Miles, L. S., **S. T. Breitbart**, H. H. Wagner, and M. T. J. Johnson. 2019. [Urbanization Shapes the Ecology and Evolution of Plant-Arthropod Herbivore Interactions.](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/abstract) Frontiers in Ecology and Evolution 7:1–14. doi: 10.3389/fevo.2019.00310.
