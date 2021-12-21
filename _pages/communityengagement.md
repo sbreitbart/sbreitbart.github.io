@@ -10,7 +10,7 @@ Some of my favorite ways to participate in community engagement are through ment
 <br />
 
 # Coordinator, CAGIS Toronto
-### *Canadian Association for Girls in Science*
+## *Canadian Association for Girls in Science*
 
 <div class="fade-in-image">
   <img style="float: right;" src="https://girlsinscience.ca/wp-content/uploads/2018/08/Cagis_logo_colour.jpg" width="180" height="150" >
@@ -21,7 +21,7 @@ I am a coordinator for the Toronto chapter of [CAGIS](https://girlsinscience.ca/
 <br />
 
 # Contributing Writer, "Life in the City"
-### *A blog about urban evolution*
+## *A blog about urban evolution*
 
 <div class="fade-in-image">
   <img style="float: right;" src="https://i0.wp.com/urbanevolution-litc.com/wp-content/uploads/2021/10/Ameiva_LITC-01.png?w=900&ssl=1" width="250" height="180" >
@@ -43,7 +43,7 @@ I am a coordinator for the Toronto chapter of [CAGIS](https://girlsinscience.ca/
 <br />
 
 # Steering Committee Member, WesWIS
-### *Wesleyan Women in Science*
+## *Wesleyan Women in Science*
 
 <div class="fade-in-image">
   <img style="float: right;" src="https://www.courseleaf.com/gallery/Wesleyan-University-400x400.jpg" width="180" height="180" >
