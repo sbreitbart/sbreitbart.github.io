@@ -10,7 +10,7 @@ author_profile: true
 # Peer-Reviewed
 ## Journal Articles
 
-3\. **Breitbart, S.**, A. Tomchyshyn, M. Johnson, and H. Wagner. 2022. Urbanization and green corridors influence reproductive success and pollinators of common milkweed. Submitted to Urban Ecosystems. [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.11.483986v1)
+3\. **Breitbart, S.**, A. Tomchyshyn, M. Johnson, and H. Wagner. 2022. Urbanization and green corridors influence reproductive success and pollinators of common milkweed. Under review at Urban Ecosystems. [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.11.483986v1)
 
 2\. Miles, L. S., **S. T. Breitbart**, H. H. Wagner, and M. T. J. Johnson. 2019. [Urbanization Shapes the Ecology and Evolution of Plant-Arthropod Herbivore Interactions.](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/abstract) Frontiers in Ecology and Evolution 7:1–14. doi: 10.3389/fevo.2019.00310.
 
