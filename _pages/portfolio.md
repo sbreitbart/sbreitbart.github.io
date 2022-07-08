@@ -1,11 +1,11 @@
 ---
-layout: archive
 title: "Portfolio"
+layout: archive
 permalink: /portfolio/
 author_profile: true
 ---
 
-# Workshops
+# Workshops taught
 
 ## [Writing R functions](https://sbreitbart.github.io/BGSS_Retreat_2021_Workshop/)
 
