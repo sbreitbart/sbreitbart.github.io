@@ -43,3 +43,8 @@ We also taught [a shorter version of this workshop](https://afilazzola.github.io
 ### [Scraping ecology job postings from public job boards](https://github.com/sbreitbart/job_board_scraping)
 
 <a href="https://github.com/sbreitbart/job_board_scraping" class="btn btn-outline-success" role="button">Source code</a>
+
+
+### [Creating an automatic weekly link roundup from a defunct blog with web scraping](https://github.com/sbreitbart/scrape_hp)
+
+<a href="https://github.com/sbreitbart/scrape_hp" class="btn btn-outline-success" role="button">Source code</a>
