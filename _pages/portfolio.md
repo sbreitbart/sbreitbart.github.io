@@ -7,6 +7,12 @@ author_profile: true
 
 ## Workshops taught
 
+### [An Ecologist's Introduction to Data Science](https://sbreitbart.github.io/DataSci_for_Ecologists/)
+
+Co-taught with [Alex Filazzola](http://www.filazzola.info/) at the Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), August 2022.
+
+<a href="https://github.com/sbreitbart/DataSci_for_Ecologists" class="btn btn-outline-success" role="button">Source code</a>
+
 ### [Writing R functions](https://sbreitbart.github.io/BGSS_Retreat_2021_Workshop/)
 
 Co-taught with [Alex Filazzola](http://www.filazzola.info/) at the University of Toronto Mississauga Biology Graduate Student Society Fall Retreat, November 2021.
