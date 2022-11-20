@@ -9,10 +9,10 @@ author_profile: true
 ## *University of Toronto, Conferences, R Users Meetup*
 
 <div class="fade-in-image">
-  <img style="float: left;" src= "C:/Users/sbrei/Documents/R_Projects/website/images/workshop_screenshot.png" width="280" height="150" hspace="10" vspace="10">
+  <img style="float: left;" src= "/Users/sbrei/Documents/R_Projects/website/images/workshop_screenshot.png" width="280" height="150" hspace="10" vspace="10">
 </div>
 
-**I love to code. I also love to help others realize that it's not the for loops that make their blood pressure rise, but the environments in which they were taught for loops.** That a supportive environment can make *all the difference* when it comes to learning these incredibly powerful, multi-disciplinary skills that offer immense value to practically every field. I am grateful to have been given the chance to undergo instructor training through [The Carpentries](https://carpentries.org/), an organization that teaches "foundational coding and data science skills to researchers worldwide", and team up with some incredible colleagues to develop coding workshops for researchers at UofT (e.g., as a [UofT Coders](https://uoftcoders.github.io/) exec) and [beyond.](/_pages/portfolio.md)
+**I love to code. I also love to help others realize that it's not the for loops that make their blood pressure rise, but the environments in which they were taught for loops.** That a supportive environment can make *all the difference* when it comes to learning these incredibly powerful, multi-disciplinary skills that offer immense value to practically every field. I am grateful to have been given the chance to undergo instructor training through [The Carpentries](https://carpentries.org/), an organization that teaches "foundational coding and data science skills to researchers worldwide", and team up with some incredible colleagues to develop coding workshops for researchers at UofT (e.g., as a [UofT Coders](https://uoftcoders.github.io/) exec) and [beyond.](/portfolio.md)
 
 
 <br />
