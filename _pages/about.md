@@ -22,5 +22,5 @@ Before graduate school, I earned my B.A. in Biology with a Certificate in Integr
 In my free time I like to go to concerts, explore Toronto's fascinating neighborhoods (there are >150!), tinker and learn new skills with [weekend coding projects](/communityengagement.md), and contemplate the wonders of evolutionary resilience.
 
 |:-------------------------:|:-------------------------:|
-| <img width = "1604" alt = "Milkweed growing in downtown Toronto" src = "/Users/sbrei/Documents/R_Projects/website/images/mw_multi.jpg" >| <img width = "1604" alt = "On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" src = "/Users/sbrei/Documents/R_Projects/website/images/2018_fieldwork.jpg"> |
-|<img width = "1604" alt = "Milkweed seedlings in growth chamber" src = "/Users/sbrei/Documents/R_Projects/website/images/growth_chamber.jpg" > | <img width="1604" alt = "Surveying milkweed in common garden experiment" src = "/Users/sbrei/Documents/R_Projects/website/images/KSR_2021.jpeg">|
+| <img width = "1604" alt = "Milkweed growing in downtown Toronto" src = "images/mw_multi.jpg" >| <img width = "1604" alt = "On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" src = "images/2018_fieldwork.jpg"> |
+|<img width = "1604" alt = "Milkweed seedlings in growth chamber" src = "images/growth_chamber.jpg" > | <img width="1604" alt = "Surveying milkweed in common garden experiment" src = "images/KSR_2021.jpeg">|
