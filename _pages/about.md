@@ -19,7 +19,7 @@ I'm also developing a keen interest in coding well and teaching how to do so. I 
 
 Before graduate school, I earned my B.A. in Biology with a Certificate in Integrative Genomics Sciences from [Wesleyan University](https://www.wesleyan.edu/). Next, I was lucky enough to spend two years as a staff scientist at an [ecological restoration firm](https://princetonhydro.com/) and learn about all sorts of things— especially field work, multi-year project management, and the value of incredible coworkers. 
 
-In my free time I like to go to concerts, explore Toronto's fascinating neighborhoods (there are >150!), tinker and learn new skills with [weekend coding projects](/communityengagement.md), and contemplate the wonders of evolutionary resilience.
+In my free time I like to go to concerts, explore Toronto's fascinating neighborhoods (there are >150!), tinker and learn new skills with [weekend coding projects](/portfolio.md), and contemplate the wonders of evolutionary resilience.
 
 |:-------------------------:|:-------------------------:|
 | <img width = "1604" alt = "Milkweed growing in downtown Toronto" src = "./images/mw_multi.jpg" >| <img width = "1604" alt = "On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" src = "./images/2018_fieldwork.jpg"> |
