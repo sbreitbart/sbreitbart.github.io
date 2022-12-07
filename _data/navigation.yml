@@ -14,6 +14,9 @@ main:
     
   - title: "Community Engagement"
     url: /communityengagement/
+    
+  - title: "Media"
+    url: /media/
 
   # - title: "Teaching"
   #   url: /teaching/    
