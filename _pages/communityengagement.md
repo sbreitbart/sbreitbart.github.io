@@ -32,7 +32,7 @@ author_profile: true
 ## *Canadian Association for Girls in Science*
 
 <div class="fade-in-image">
-  <img style="float: left;" src="https://girlsinscience.ca/wp-content/uploads/2018/08/Cagis_logo_colour.jpg" width="180" height="150" >
+  <img style="float: left;" src="https://girlsinscience.ca/wp-content/uploads/2018/08/Cagis_logo_colour.jpg" width="180" height="150" hspace="10" vspace="10">
 </div>
 
 From 2020-2022, I was a coordinator for the Toronto chapter of [CAGIS](https://girlsinscience.ca/what-is-cagis/), a club whose **mission is to encourage young girls and gender non-conforming youth (age 7-16) to explore the STEM fields with hands-on activities**. Since I began volunteering with CAGIS in 2019, I've assisted these budding scientists as **they've built solar-powered cars, searched for fungi in High Park, pondered the logistics of space travel, and constructed mini greenhouses** for germinating household seeds and beans. When I became a chapter coordinator in 2020, my role expanded to include organizing virtual events with community partners in academia, industry, and government.  

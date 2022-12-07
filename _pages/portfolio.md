@@ -9,7 +9,10 @@ author_profile: true
 
 ### [An Ecologist's Introduction to Data Science](https://sbreitbart.github.io/DataSci_for_Ecologists/)
 
-Co-taught with [Alex Filazzola](http://www.filazzola.info/) at the Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), August 2022.
+Co-taught with [Alex Filazzola](http://www.filazzola.info/) at the
+
+- Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), August 2022
+- Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE) Seminar Series, November 2022
 
 <a href="https://github.com/sbreitbart/DataSci_for_Ecologists" class="btn btn-outline-success" role="button">Source code</a>
 
