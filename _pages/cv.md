@@ -11,3 +11,4 @@ redirect_from:
 
 <object data="../files/CV_Breitbart_20230316.pdf" width="1000" height="1000" type='application/pdf'></object>
 
+{% pdf {{ ../files/CV_Breitbart_20230316.pdf }} %}
