@@ -12,9 +12,11 @@ In my PhD, I am applying concepts from **spatial ecology** and **population gene
 
 Ok, but what does this *really* mean? Read on:
 
-<div class="fade-in-image">
+<div class="fade-in-image" style="text-align: center;">
   <img src="/images/square_mw.jpg" alt="Milkweed with Monarch butterfly in Toronto. PC: Vanessa Nhan" width="300" height="300" hspace="10" vspace="10">
 </div>
+
+<br />
 
 # Current Research
 
@@ -49,6 +51,7 @@ We set out to address this question by investigating **how Toronto's urban lands
 
 Described for my third chapter project, above. I also sought to test whether proximity to an urban green corridor impacted genetic divergence in phenotypic traits. Looks like it doesn't! [(Manuscript in review; read preprint on BioRxiv.)](https://www.biorxiv.org/content/10.1101/2023.04.04.535613v1)
   
+<br />
 
 # Introduction to Urban Evolution
 
