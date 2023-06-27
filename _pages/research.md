@@ -9,7 +9,9 @@ In my PhD, I am applying concepts from **spatial ecology** and **population gene
 
 Ok, but what does this *really* mean? Read on:
 
-<img width = "1604" alt = "Milkweed with Monarch butterfly in Toronto" src = "./images/square_mw.jpeg" >
+<div class="fade-in-image">
+  <img style="float: center;" src= "./images/square_mw.jpeg" alt = "Milkweed with Monarch butterfly in Toronto. PC: Vanessa Nhan" width="300" height="300" hspace="10" vspace="10">
+</div>
 
 # Current Research
 
