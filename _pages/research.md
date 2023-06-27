@@ -2,7 +2,9 @@
 title: "Research"
 layout: archive
 permalink: /research/
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 author_profile: yes
 ---
 
@@ -13,6 +15,28 @@ Ok, but what does this *really* mean? Read on:
 <div class="fade-in-image">
   <img src="./images/square_mw.jpeg" alt="Milkweed with Monarch butterfly in Toronto. PC: Vanessa Nhan" width="300" height="300" hspace="10" vspace="10">
 </div>
+
+<img src="./images/square_mw.jpeg" alt="2Milkweed with Monarch butterfly in Toronto. PC: Vanessa Nhan" width="300" height="300" hspace="10" vspace="10">
+
+<img width = "1604" alt = "3Milkweed with Monarch butterfly in Toronto. PC: Vanessa Nhan" src = "./images/square_mw.jpeg" >
+
+
+![Image](./images/square_mw.jpeg)
+
+
+
+
+
+<div class="fade-in-image">
+  <img src="./images/square_mw.jpg" alt="Milkweed with Monarch butterfly in Toronto. PC: Vanessa Nhan" width="300" height="300" hspace="10" vspace="10">
+</div>
+
+<img src="./images/square_mw.jpg" alt="2Milkweed with Monarch butterfly in Toronto. PC: Vanessa Nhan" width="300" height="300" hspace="10" vspace="10">
+
+<img width = "1604" alt = "3Milkweed with Monarch butterfly in Toronto. PC: Vanessa Nhan" src = "./images/square_mw.jpg" >
+
+
+![Image](./images/square_mw.jpeg)
 
 
 # Current Research
