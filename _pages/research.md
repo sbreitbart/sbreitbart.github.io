@@ -1,8 +1,9 @@
 ---
-layout: archive
 title: "Research"
+layout: archive
 permalink: /research/
-author_profile: true
+output: pdf_document
+author_profile: yes
 ---
 
 In my PhD, I am applying concepts from **spatial ecology** and **population genetics** to test the hypothesis that the spatial configuration and environmental conditions of urban areas influence adaptive and non-adaptive evolutionary processes in a native plant species of high conservation value, *Asclepias syriaca* (common milkweed).
@@ -10,8 +11,9 @@ In my PhD, I am applying concepts from **spatial ecology** and **population gene
 Ok, but what does this *really* mean? Read on:
 
 <div class="fade-in-image">
-  <img style="float: center;" src= "./images/square_mw.jpeg" alt = "Milkweed with Monarch butterfly in Toronto. PC: Vanessa Nhan" width="300" height="300" hspace="10" vspace="10">
+  <img src="./images/square_mw.jpeg" alt="Milkweed with Monarch butterfly in Toronto. PC: Vanessa Nhan" width="300" height="300" hspace="10" vspace="10">
 </div>
+
 
 # Current Research
 
