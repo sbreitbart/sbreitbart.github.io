@@ -43,7 +43,7 @@ We set out to address this question by investigating **how Toronto's urban lands
 
 [The results were complicated!](https://twitter.com/SophieBreitbart/status/1572968593536458752) The takeaway message? Urbanization, green corridors, and pollinator communities can shape the reproductive investment and fitness of native plant populations in complex ways!
 
-[Read the published paper in Urban Ecosystems here.](https://link.springer.com/article/10.1007/s11252-022-01278-9)
+[Read the published paper in Urban Ecosystems here](https://link.springer.com/article/10.1007/s11252-022-01278-9) and [explore the code on Github here](https://github.com/sbreitbart/observ_study_phenotype).
 
 
 ## Chapter 2
