@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
-Click links to download:
+## Resume
+<object data="../files/resume_Breitbart_20230919.pdf" width="100" height="100" type='application/pdf'></object>
 
-[Resume](files/resume_Breitbart_20230919.pdf) & [CV](./files/CV_Breitbart_20230914.pdf)
-
-
-[Resume](resume_Breitbart_20230919.pdf) & [CV](files/CV_Breitbart_20230914.pdf)
-
+## CV
+<object data="../files/CV_Breitbart_20230914.pdf" width="100" height="100" type='application/pdf'></object>
