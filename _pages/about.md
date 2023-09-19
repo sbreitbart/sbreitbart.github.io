@@ -19,7 +19,7 @@ author_profile: yes
 
 <small>*In this next chapter, I'm looking forward to continuing to use computational tools to make meaning out of ecological data for diverse audiences.*</small>
 
-<small>\*Thanks so much. **Please don't hesitate to reach out if you'd like to connect**- I love getting to know new people!\*</small>
+<small>*Thanks so much. **Please don't hesitate to reach out if you'd like to connect**- I love getting to know new people!*</small>
 
 ------------------------------------------------------------------------
 
