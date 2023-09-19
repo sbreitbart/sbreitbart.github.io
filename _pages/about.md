@@ -11,7 +11,6 @@ redirect_from:
 author_profile: yes
 ---
 
-<<<<<<< HEAD
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |
 | | +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ | |
@@ -31,19 +30,6 @@ author_profile: yes
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 =======
 ------------------------------------------------------------------------
-
-📢 ***By May 2024, I will be looking for a job as an environmental/ecological data analyst/scientist.*** 📢 *I have 6 years of experience working in R and 9 years working with data.*
-
-*I will be located in Rhode Island and am enthusiastic about remote positions.*
-
-*I have a B.A. in Biology with a certificate in Integrative Genomics Sciences, and by 2024 I will (likely!) have a PhD in Ecology & Evolutionary Biology. [Here is a link to my resume and CV.](/cv.md)*
-
-*In this next chapter, I'm looking forward to continuing to use computational tools to make meaning out of ecological data for diverse audiences.*
-
-*Thanks so much. **Please don't hesitate to reach out if you'd like to connect**- I love getting to know new people!*
-
-------------------------------------------------------------------------
->>>>>>> de5080cfa6316a1889f86f868c9d37a0bad141b3
 
 Hi there! I am a PhD candidate in the Department of Ecology and Evolutionary Biology at the [University of Toronto](https://eeb.utoronto.ca/). My advisors are Drs. [Marc Johnson](https://evoecolab.wordpress.com/) and [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab).
 
