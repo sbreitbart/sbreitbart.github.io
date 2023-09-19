@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Click links to download:
 
 [Resume]("files/resume_Breitbart_20230919.pdf") & [CV]("./files/CV_Breitbart_20230914.pdf")

@@ -29,6 +29,8 @@ author_profile: yes
 | ------------------------------------------------------------------------                                                                                                                                         |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+------------------------------------------------------------------------
+
 Hi there! I am a PhD candidate in the Department of Ecology and Evolutionary Biology at the [University of Toronto](https://eeb.utoronto.ca/). My advisors are Drs. [Marc Johnson](https://evoecolab.wordpress.com/) and [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab).
 
 **My research focuses on how urbanization influences the ecology and evolution of common milkweed** (a favorite of Monarch butterflies). More and more people are moving to cities--- did you know that over half the human population lives in urban areas?!--- and by understanding how these unique environments affect wildlife on the long term, we can design resilient cities that act as healthy ecosystems for wildlife as well as people.
