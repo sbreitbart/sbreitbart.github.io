@@ -11,9 +11,7 @@ redirect_from:
 author_profile: yes
 ---
 
-```{=html}
-<p style="text-align: center;" "background-color:lightblue">📢 <b>[After I graduate around April 2024, I will be looking for a position as an environmental/ecological data analyst/scientist.] 📢</p></b>
-```
+<p style="text-align: center;"><p style="background-color:orange">📢 <b>[After I graduate around April 2024, I will be looking for a position as an environmental/ecological data analyst/scientist.] </p></b>
 
 <small>*I have 6 years of experience working in R and 9 years working with data. I have a B.A. in Biology with a certificate in Integrative Genomics Sciences, and by 2024 I will (likely!) have a PhD in Ecology & Evolutionary Biology. [Here is a link to my resume and CV.](/cv.md)*</small>
 
