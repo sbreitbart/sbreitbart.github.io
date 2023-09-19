@@ -28,8 +28,6 @@ author_profile: yes
 |                                                                                                                                                                                                                  |
 | ------------------------------------------------------------------------                                                                                                                                         |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-=======
-------------------------------------------------------------------------
 
 Hi there! I am a PhD candidate in the Department of Ecology and Evolutionary Biology at the [University of Toronto](https://eeb.utoronto.ca/). My advisors are Drs. [Marc Johnson](https://evoecolab.wordpress.com/) and [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab).
 
