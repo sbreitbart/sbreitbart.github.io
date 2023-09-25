@@ -36,10 +36,6 @@ Before graduate school, I earned my B.A. in Biology with a Certificate in Integr
 In my free time I like to go to concerts, explore Toronto's fascinating neighborhoods (there are >150!), tinker and learn new skills with [weekend coding projects](/portfolio.md), and contemplate the wonders of evolutionary resilience.
 
 
-|:-------------------------:|:-------------------------:| | <img src="./images/mw_multi.jpg" alt="Milkweed growing in downtown Toronto" width="1604"> | <img src="./images/2018_fieldwork.jpg" alt="On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" width="1604"> |
-| <img src="./images/growth_chamber.jpg" alt="Milkweed seedlings in growth chamber" width="1604"> | <img src="./images/KSR_2021.jpeg" alt="Surveying milkweed in common garden experiment" width="1604"> |
-|:-------------------------:|:-------------------------:|
-
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <div style="flex: 0 0 48%; margin: 1%;">
         <img src="./images/mw_multi.jpg" alt="Milkweed growing in downtown Toronto" style="width:100%">
@@ -58,7 +54,3 @@ In my free time I like to go to concerts, explore Toronto's fascinating neighbor
         <p style="text-align:center;">Surveying milkweed in common garden experiment</p>
     </div>
 </div>
-
-|:-------------------------:|:-------------------------:|
-| <img width = "1604" alt = "Milkweed growing in downtown Toronto" src = "./images/mw_multi.jpg" >| <img width = "1604" alt = "On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" src = "./images/2018_fieldwork.jpg"> |
-|<img width = "1604" alt = "Milkweed seedlings in growth chamber" src = "./images/growth_chamber.jpg" > | <img width="1604" alt = "Surveying milkweed in common garden experiment" src = "./images/KSR_2021.jpeg">|
