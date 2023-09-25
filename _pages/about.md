@@ -13,13 +13,13 @@ author_profile: yes
 
 <span style="font-weight: bold; background-color: lightblue;">After I graduate in April 2024, I will be looking for a position as an environmental/ecological data analyst/scientist.</span>
 
-<small>*I have 6 years of experience working in R and 9 years working with data. I have a B.A. in Biology with a certificate in Integrative Genomics Sciences, and by 2024 I will (likely!) have a PhD in Ecology & Evolutionary Biology. [Here is a link to my resume and CV.](/cv.md)*</small>
+*I have 6 years of experience working in R and 9 years working with data. I have a B.A. in Biology with a certificate in Integrative Genomics Sciences, and by 2024 I will (likely!) have a PhD in Ecology & Evolutionary Biology. [Here is a link to my resume and CV.](/cv.md)*
 
-<small>*I will be located in Rhode Island and am enthusiastic about remote positions.*</small>
+*I will be located in Rhode Island and am enthusiastic about remote positions.*
 
-<small>*In this next chapter, I'm looking forward to continuing to use computational tools to make meaning out of ecological data for diverse audiences.*</small>
+*In this next chapter, I'm looking forward to continuing to use computational tools to make meaning out of ecological data for diverse audiences.*
 
-<small>*Thanks so much. **Please don't hesitate to reach out if you'd like to connect**- I love getting to know new people!*</small>
+*Thanks so much. **Please don't hesitate to reach out if you'd like to connect**- I love getting to know new people!*
 
 ------------------------------------------------------------------------
 
@@ -33,6 +33,6 @@ I'm also developing a keen interest in coding well and teaching how to do so. I 
 
 Before graduate school, I earned my B.A. in Biology with a Certificate in Integrative Genomics Sciences from [Wesleyan University](https://www.wesleyan.edu/). Next, I was lucky enough to spend two years as a staff scientist at an [ecological restoration firm](https://princetonhydro.com/) and learn about all sorts of things--- especially field work, multi-year project management, and the value of incredible coworkers.
 
-In my free time I like to go to concerts, explore Toronto's fascinating neighborhoods (there are \>150!), tinker and learn new skills with [weekend coding projects](/portfolio.md), and contemplate the wonders of evolutionary resilience.
+In my free time I like to go to concerts, explore Toronto's fascinating neighborhoods (there are >150!), tinker and learn new skills with [weekend coding projects](/portfolio.md), and contemplate the wonders of evolutionary resilience.
 
-\|:-------------------------:\|:-------------------------:\| \| <img src="./images/mw_multi.jpg" alt="Milkweed growing in downtown Toronto" width="1604"/>\| <img src="./images/2018_fieldwork.jpg" alt="On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" width="1604"/> \| \|<img src="./images/growth_chamber.jpg" alt="Milkweed seedlings in growth chamber" width="1604"/> \| <img src="./images/KSR_2021.jpeg" alt="Surveying milkweed in common garden experiment" width="1604"/>\|
+|:-------------------------:|:-------------------------:| | <img src="./images/mw_multi.jpg" alt="Milkweed growing in downtown Toronto" width="1604"/>| <img src="./images/2018_fieldwork.jpg" alt="On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" width="1604"/> | |<img src="./images/growth_chamber.jpg" alt="Milkweed seedlings in growth chamber" width="1604"/> | <img src="./images/KSR_2021.jpeg" alt="Surveying milkweed in common garden experiment" width="1604"/>|

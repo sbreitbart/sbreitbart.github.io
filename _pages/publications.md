@@ -10,6 +10,8 @@ author_profile: true
 # Peer-Reviewed
 ## Journal Articles
 
+4\. **Breitbart, S.**, A. Agrawal, H. Wagner, and M. Johnson. Urbanization and a green corridor do not impact genetic divergence in common milkweed (*Asclepias syriaca*). *In review.* [BioRxiv](https://www.biorxiv.org/content/10.1101/2023.04.04.535613v1)
+
 3\. **Breitbart, S.**, A. Tomchyshyn, H. Wagner. and M. Johnson. 2022. [Urbanization and green corridors influence reproductive success and pollinators of common milkweed.](https://link.springer.com/article/10.1007/s11252-022-01278-9) Urban Ecosystems. doi: 10.1007/s11252-022-01278-9.
 
 2\. Miles, L. S., **S. T. Breitbart**, H. H. Wagner, and M. T. J. Johnson. 2019. [Urbanization Shapes the Ecology and Evolution of Plant-Arthropod Herbivore Interactions.](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/abstract) Frontiers in Ecology and Evolution 7:1–14. doi: 10.3389/fevo.2019.00310.
