@@ -40,11 +40,25 @@ In my free time I like to go to concerts, explore Toronto's fascinating neighbor
 | <img src="./images/growth_chamber.jpg" alt="Milkweed seedlings in growth chamber" width="1604"> | <img src="./images/KSR_2021.jpeg" alt="Surveying milkweed in common garden experiment" width="1604"> |
 |:-------------------------:|:-------------------------:|
 
-![Milkweed growing in downtown Toronto](./images/mw_multi.jpg) ![On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim](./images/2018_fieldwork.jpg)
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <div style="flex: 0 0 48%; margin: 1%;">
+        <img src="./images/mw_multi.jpg" alt="Milkweed growing in downtown Toronto" style="width:100%">
+        <p style="text-align:center;">Milkweed growing in downtown Toronto</p>
+    </div>
+    <div style="flex: 0 0 48%; margin: 1%;">
+        <img src="./images/2018_fieldwork.jpg" alt="On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" style="width:100%">
+        <p style="text-align:center;">On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim</p>
+    </div>
+    <div style="flex: 0 0 48%; margin: 1%;">
+        <img src="./images/growth_chamber.jpg" alt="Milkweed seedlings in growth chamber" style="width:100%">
+        <p style="text-align:center;">Milkweed seedlings in growth chamber</p>
+    </div>
+    <div style="flex: 0 0 48%; margin: 1%;">
+        <img src="./images/KSR_2021.jpeg" alt="Surveying milkweed in common garden experiment" style="width:100%">
+        <p style="text-align:center;">Surveying milkweed in common garden experiment</p>
+    </div>
+</div>
 
-*Milkweed growing in downtown Toronto* | *On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim*
-
-![Milkweed seedlings in growth chamber](./images/growth_chamber.jpg) ![Surveying milkweed in common garden experiment](./images/KSR_2021.jpeg)
-
-*Milkweed seedlings in growth chamber* | *Surveying milkweed in common garden experiment*
-
+|:-------------------------:|:-------------------------:|
+| <img width = "1604" alt = "Milkweed growing in downtown Toronto" src = "./images/mw_multi.jpg" >| <img width = "1604" alt = "On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" src = "./images/2018_fieldwork.jpg"> |
+|<img width = "1604" alt = "Milkweed seedlings in growth chamber" src = "./images/growth_chamber.jpg" > | <img width="1604" alt = "Surveying milkweed in common garden experiment" src = "./images/KSR_2021.jpeg">|
