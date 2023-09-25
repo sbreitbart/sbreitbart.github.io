@@ -36,4 +36,15 @@ Before graduate school, I earned my B.A. in Biology with a Certificate in Integr
 In my free time I like to go to concerts, explore Toronto's fascinating neighborhoods (there are >150!), tinker and learn new skills with [weekend coding projects](/portfolio.md), and contemplate the wonders of evolutionary resilience.
 
 
-|:-------------------------:|:-------------------------:| | <img src="./images/mw_multi.jpg" alt="Milkweed growing in downtown Toronto" width="1604"> | <img src="./images/2018_fieldwork.jpg" alt="On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" width="1604"> | | <img src="./images/growth_chamber.jpg" alt="Milkweed seedlings in growth chamber" width="1604"> | <img src="./images/KSR_2021.jpeg" alt="Surveying milkweed in common garden experiment" width="1604">|
+|:-------------------------:|:-------------------------:| | <img src="./images/mw_multi.jpg" alt="Milkweed growing in downtown Toronto" width="1604"> | <img src="./images/2018_fieldwork.jpg" alt="On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" width="1604"> |
+| <img src="./images/growth_chamber.jpg" alt="Milkweed seedlings in growth chamber" width="1604"> | <img src="./images/KSR_2021.jpeg" alt="Surveying milkweed in common garden experiment" width="1604"> |
+|:-------------------------:|:-------------------------:|
+
+![Milkweed growing in downtown Toronto](./images/mw_multi.jpg) ![On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim](./images/2018_fieldwork.jpg)
+
+*Milkweed growing in downtown Toronto* | *On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim*
+
+![Milkweed seedlings in growth chamber](./images/growth_chamber.jpg) ![Surveying milkweed in common garden experiment](./images/KSR_2021.jpeg)
+
+*Milkweed seedlings in growth chamber* | *Surveying milkweed in common garden experiment*
+
