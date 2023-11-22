@@ -49,7 +49,9 @@ We set out to address this question by investigating **how Toronto's urban lands
 ## Chapter 2
 ### To what extent do urbanization and a green corridor influence genetic divergence in phenotypic traits in *A. syriaca* populations?
 
-Described for my third chapter project, above. I also sought to test whether proximity to an urban green corridor impacted genetic divergence in phenotypic traits. Looks like it doesn't! [(Manuscript in review; read preprint on BioRxiv.)](https://www.biorxiv.org/content/10.1101/2023.04.04.535613v1)
+Described for my third chapter project, above. I also sought to test whether proximity to an urban green corridor impacted genetic divergence in phenotypic traits. Looks like it doesn't!
+
+[Read the published paper in Scientific Reports here](https://www.nature.com/articles/s41598-023-47524-8) and [explore the code on Github here](https://github.com/sbreitbart/urban_genetic_divergence).
   
 <br />
 
