@@ -14,7 +14,7 @@ author_profile: true
 
 3\. **Breitbart, S.T.**, A. Tomchyshyn, H.H. Wagner,  M.T.J. Johnson. 2023. Urbanization and a green corridor influence reproductive success and pollinators of common milkweed. Urban Ecosystems 26:31–43. [https://doi.org/10.1007/s11252-022-01278-9](https://link.springer.com/article/10.1007/s11252-022-01278-9)
 
-2\. Miles, L.S.&ast;, **S.T. Breitbart&ast;**, H.H. Wagner, and M.T.J. Johnson. 2019. Urbanization shapes the ecology and evolution of plant-arthropod herbivore interactions. Frontiers in Ecology and Evolution 7:1–14. [https://doi.org/10.3389/fevo.2019.00310](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/full)
+2\. Miles, L.S.\*, **S.T. Breitbart\***, H.H. Wagner, and M.T.J. Johnson. 2019. Urbanization shapes the ecology and evolution of plant-arthropod herbivore interactions. Frontiers in Ecology and Evolution 7:1–14. [https://doi.org/10.3389/fevo.2019.00310](https://www.frontiersin.org/articles/10.3389/fevo.2019.00310/full)
 
 1\. **Breitbart, S.** and Weigel, E. February 2019, posting date. [Visualizing a disease outbreak using ESRI story maps.](https://tiee.esa.org/vol/v15/issues/data_sets/breitbart/abstract.html) *Teaching Issues and Experiments in Ecology*, Vol. 15: Practice #1 [online].
 
