@@ -41,9 +41,9 @@ What's left to discover? A lot! Among our many questions, we're still asking how
 
 We set out to address this question by investigating **how Toronto's urban landscape impacts interactions among plants and pollinators**. We observed which pollinators visited *A. syriaca* in urban environments and estimated reproductive success in these plants (how much fruit did they bear? etc.). We also brought up questions about how elements of the urban landscape itself impact these species interactions by comparing these observations to those occurring by a green corridor.
 
-[The results were complicated!](https://twitter.com/SophieBreitbart/status/1572968593536458752) The takeaway message? Urbanization, green corridors, and pollinator communities can shape the reproductive investment and fitness of native plant populations in complex ways!
+The results were complicated! The takeaway message? Urbanization, green corridors, and pollinator communities can shape the reproductive investment and fitness of native plant populations in complex ways!
 
-[Read the published paper in Urban Ecosystems here](https://link.springer.com/article/10.1007/s11252-022-01278-9) and [explore the code on Github here](https://github.com/sbreitbart/observ_study_phenotype).
+[Read the published paper in Urban Ecosystems here](https://link.springer.com/article/10.1007/s11252-022-01278-9), [read a breakdown of the project here](https://twitter.com/SophieBreitbart/status/1572968593536458752), and [explore the code on Github here](https://github.com/sbreitbart/observ_study_phenotype).
 
 
 ## Chapter 2
@@ -51,7 +51,7 @@ We set out to address this question by investigating **how Toronto's urban lands
 
 Described for my third chapter project, above. I also sought to test whether proximity to an urban green corridor impacted genetic divergence in phenotypic traits. Looks like it doesn't!
 
-[Read the published paper in Scientific Reports here](https://www.nature.com/articles/s41598-023-47524-8) and [explore the code on Github here](https://github.com/sbreitbart/urban_genetic_divergence).
+[Read the published paper in Scientific Reports here](https://www.nature.com/articles/s41598-023-47524-8), [read a breakdown of the project here](https://fosstodon.org/@sbreitbart/111522494188075103), and [explore the code on Github here](https://github.com/sbreitbart/urban_genetic_divergence).
   
 <br />
 
