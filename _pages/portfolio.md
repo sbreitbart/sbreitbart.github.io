@@ -39,12 +39,12 @@ We also taught [a shorter version of this workshop](https://afilazzola.github.io
 
 ## Side projects to help me learn new coding skills
 
-### [iNaturalist sightings Shiny dashboard](https://rpubs.com/sbreitbart/inaturalist)
+### [Automatically-updating iNaturalist observations Shiny app](https://spv2p2-sophie-breitbart.shinyapps.io/iNaturalist_2023_SB/)
 
-<a href="https://github.com/sbreitbart/iNat_dashboard" class="btn btn-outline-success" role="button">Source code</a>
+<a href="https://github.com/sbreitbart/inat_automatic" class="btn btn-outline-success" role="button">Source code</a>
 
 
-### [eBird sightings Shiny dashboard](https://spv2p2-sophie-breitbart.shinyapps.io/ebird_dashboard2/)
+### [eBird observations Shiny dashboard](https://spv2p2-sophie-breitbart.shinyapps.io/ebird_dashboard2/)
 
 <a href="https://github.com/sbreitbart/ebird_dash2" class="btn btn-outline-success" role="button">Source code</a>
 
