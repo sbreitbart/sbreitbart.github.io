@@ -11,23 +11,9 @@ redirect_from:
 author_profile: yes
 ---
 
-<span style="font-weight: bold; background-color: lightblue;">After I graduate in April 2024, I will be looking for a position as an environmental/ecological data analyst/scientist in early June.</span>
+Hi there! I am an ecologist, evolutionary biologist, and data scientist. My goal is to strengthen our ecosystems by translating ecological data into insights that are meaningful for diverse audiences. I just finished my PhD program in Ecology and Evolutionary Biology at the [University of Toronto](https://eeb.utoronto.ca/), co-advised by Drs. [Marc Johnson](https://evoecolab.wordpress.com/) and [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab). *I have a new job! More details coming soon.*
 
-*I have 6 years of experience working in R and 9 years working with data. I have a B.A. in Biology with a certificate in Integrative Genomics Sciences, and by 2024 I will (likely!) have a PhD in Ecology & Evolutionary Biology. [Here is a link to my resume and CV.](/cv.md)*
-
-*I will be located in Rhode Island and am enthusiastic about remote positions.*
-
-*In this next chapter, I'm looking forward to continuing to use computational tools to make meaning out of ecological data for diverse audiences.*
-
-*Thanks so much. **Please don't hesitate to reach out if you'd like to connect**- I love getting to know new people!*
-
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-Hi there! I am a PhD candidate in the Department of Ecology and Evolutionary Biology at the [University of Toronto](https://eeb.utoronto.ca/). My advisors are Drs. [Marc Johnson](https://evoecolab.wordpress.com/) and [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab).
-
-**My research focuses on how urbanization influences the ecology and evolution of common milkweed** (a favorite of Monarch butterflies). More and more people are moving to cities--- did you know that over half the human population lives in urban areas?!--- and by understanding how these unique environments affect wildlife on the long term, we can design resilient cities that act as healthy ecosystems for wildlife as well as people.
+My research focused on how urbanization influences the ecology and evolution of common milkweed (a favorite of Monarch butterflies). More and more people are moving to cities--- did you know that over half the human population lives in urban areas?!--- and by understanding how these unique environments affect wildlife on the long term, we can design resilient cities that act as healthy ecosystems for wildlife as well as people.
 
 I'm also developing a keen interest in coding well and teaching how to do so. I have co-instructed multiple R coding workshops at conferences (e.g. [ESA](https://sbreitbart.github.io/DataSci_for_Ecologists/), [CSEE, SORTEE](https://afilazzola.github.io/FastR/)) and [locally through UofT](https://sbreitbart.github.io/BGSS_Retreat_2021_Workshop/). I'm a certified instructor with [The Carpentries](https://carpentries.org/) and am an executive member of [UofT Coders](https://uoftcoders.github.io/).
 
