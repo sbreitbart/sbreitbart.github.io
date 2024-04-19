@@ -83,12 +83,13 @@ author:
   name             : "Sophie Breitbart, PhD"
   avatar           : "profile.jpg"
   bio              : "Ecological data scientist. Pronouns: she/her."
-  employer         : "Starting new job soon- TBA!"
+  employer         : "Starting new job soon-
+  \n TBA!"
   location         : "Providence, RI"
   email            : "sophie.breitbart@mail.utoronto.ca"
   orcid            : "https://orcid.org/0000-0001-9641-9786"
   github           : "sbreitbart"
-  linkedin         : "https://www.linkedin.com/in/sophiebreitbart/"
+  linkedin         : "sophiebreitbart"
   mastodon         : "https://fosstodon.org/@sbreitbart"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=vx2HzukAAAAJ"
 
