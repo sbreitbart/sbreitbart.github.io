@@ -11,7 +11,7 @@ redirect_from:
 author_profile: yes
 ---
 
-Hi there! I am an ecologist, evolutionary biologist, and data scientist. My goal is to strengthen our ecosystems by translating ecological data into insights that are meaningful for diverse audiences. I just finished my PhD program in Ecology and Evolutionary Biology at the [University of Toronto](https://eeb.utoronto.ca/), co-advised by Drs. [Marc Johnson](https://evoecolab.wordpress.com/) and [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab). *I have a new job! More details coming soon.*
+Hi there! I am an ecologist, evolutionary biologist, and data scientist. My goal is to strengthen our ecosystems by translating ecological data into insights that are meaningful for diverse audiences. I recently completed my PhD in Ecology and Evolutionary Biology at the [University of Toronto](https://eeb.utoronto.ca/), co-advised by Drs. [Marc Johnson](https://evoecolab.wordpress.com/) and [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab). *I have a new job! More details coming soon.*
 
 My research focused on how urbanization influences the ecology and evolution of common milkweed (a favorite of Monarch butterflies). More and more people are moving to cities--- did you know that over half the human population lives in urban areas?!--- and by understanding how these unique environments affect wildlife on the long term, we can design resilient cities that act as healthy ecosystems for wildlife as well as people.
 

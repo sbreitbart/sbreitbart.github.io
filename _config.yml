@@ -7,11 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sophie Breitbart"
+title                    : "Sophie Breitbart, PhD"
 title_separator          : "-"
-name                     : &name "Sophie Breitbart"
-description              : &description "PhD Candidate, University of Toronto
-\n Ecology & Evolutionary Biology"
+name                     : &name "Sophie Breitbart, PhD"
+description              : &description "PhD in Ecology & Evolutionary Biology"
 url                      : https://sbreitbart.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sbreitbart/sbreitbart.github.io"
@@ -81,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sophie Breitbart"
+  name             : "Sophie Breitbart, PhD"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate studying urban evolutionary ecology, landscape genetics, milkweed. Pronouns: she/her."
-  employer         : "University of Toronto"
-#  location         : "EEB Department"
+  bio              : "Ecological data scientist. Pronouns: she/her."
+  employer         : "Starting new job soon- TBA!"
+  location         : "Providence, RI"
   email            : "sophie.breitbart@mail.utoronto.ca"
   orcid            : "https://orcid.org/0000-0001-9641-9786"
   github           : "sbreitbart"
