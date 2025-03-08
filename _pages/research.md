@@ -8,7 +8,7 @@ output:
 author_profile: yes
 ---
 
-In my PhD, I am applying concepts from **spatial ecology** and **population genetics** to test the hypothesis that the spatial configuration and environmental conditions of urban areas influence adaptive and non-adaptive evolutionary processes in a native plant species of high conservation value, *Asclepias syriaca* (common milkweed).
+In my PhD, I applied concepts from **spatial ecology** and **population genetics** to test the hypothesis that the spatial configuration and environmental conditions of urban areas influence adaptive and non-adaptive evolutionary processes in a native plant species of high conservation value, *Asclepias syriaca* (common milkweed).
 
 Ok, but what does this *really* mean? Read on:
 
@@ -17,20 +17,6 @@ Ok, but what does this *really* mean? Read on:
 </div>
 
 <br />
-
-# Current Research
-
-## Chapter 3
-### How does urbanization impact non-adaptive evolution in *A. syriaca*?
-
-[Many species have adapted to city life.](https://urbanevolution-litc.com/?s=adaptation) I asked, has common milkweed, the Monarch butterfly's favorite host plant, adapted to Toronto's urban jungle? To answer this question, my first step was to test for genetic differences between urban and rural *A. syriaca* populations (genetic divergence). After all, if I was to detect adaptation, I'd need some evidence that the urban plants were genetically different from the rural ones, regardless of how those genetic changes impacted their fitness. After observing more than 20 traits in ~1000 plants during a 4-year common garden experiment, I found very little evidence of genetic divergence among the urban and rural populations. This suggested that common milkweed had not adapted to Toronto in these traits at this point in time.
-
-I was curious. Why not? To dive deeper, I turned my focus to the other side of evolution: the non-adaptive evolutionary processes, gene flow and genetic drift. How might these forces be preventing adaptation from occurring?
-
-My current research focuses on **how urbanization impacts genetic diversity and differentiation in *A. syriaca*.** This information can shed light on how city life impacts non-adaptive evolution and provide a clearer "big picture" view of how city life impacts evolution in general.
-
-
-# Past Research
 
 ## Chapter 1
 ### How do urban environments and a green corridor influence plant-pollinator interactions in *A. syriaca* and its pollinators?
@@ -49,11 +35,17 @@ The results were complicated! The takeaway message? Urbanization, green corridor
 ## Chapter 2
 ### To what extent do urbanization and a green corridor influence genetic divergence in phenotypic traits in *A. syriaca* populations?
 
-Described for my third chapter project, above. I also sought to test whether proximity to an urban green corridor impacted genetic divergence in phenotypic traits. Looks like it doesn't!
+[Many species have adapted to city life.](https://urbanevolution-litc.com/?s=adaptation) I asked, has common milkweed, the Monarch butterfly's favorite host plant, adapted to Toronto's urban jungle? To answer this question, my first step was to test for genetic differences between urban and rural *A. syriaca* populations (genetic divergence). After all, if I was to detect adaptation, I'd need some evidence that the urban plants were genetically different from the rural ones, regardless of how those genetic changes impacted their fitness. After observing more than 20 traits in ~1000 plants during a 4-year common garden experiment, I found very little evidence of genetic divergence among the urban and rural populations. This suggested that common milkweed had not adapted to Toronto in these traits at this point in time. I also sought to test whether proximity to an urban green corridor impacted genetic divergence in phenotypic traits. Looks like it doesn't!
 
 [Read the published paper in Scientific Reports here](https://www.nature.com/articles/s41598-023-47524-8), [read a breakdown of the project here](https://fosstodon.org/@sbreitbart/111522494188075103), and [explore the code on Github here](https://github.com/sbreitbart/urban_genetic_divergence).
   
-<br />
+  
+## Chapter 3
+### How does urbanization impact non-adaptive evolution in *A. syriaca*?
+
+The results of my second chapter still left many questions. So, I turned my focus to the other side of evolution: the non-adaptive evolutionary processes, gene flow and genetic drift. I then asked **how urbanization impacts genetic diversity and differentiation in *A. syriaca*.** How might these forces be preventing adaptation from occurring?
+
+This information can shed light on how city life impacts non-adaptive evolution and provide a clearer "big picture" view of how city life impacts evolution in general. The associated manuscript is in review.
 
 # Introduction to Urban Evolution
 
