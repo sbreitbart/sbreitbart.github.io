@@ -7,19 +7,19 @@ author_profile: true
 
 ## R Packages
 
-### [`asar`](https://nmfs-ost.github.io/asar/)
+### [asar](https://nmfs-ost.github.io/asar/)
 
 Roles: Author, contributor since 2024
 
 Goal: Automate stock assessment reports for NOAA science centers so that they are reproducible and cohesive across the agency. This project intends to create a streamlined workflow that allows the analyst to create a customized report tailored to their needs and requirements by the SSC, council, or other regional management organizations.
 
-### [`stockplotr`](https://nmfs-ost.github.io/stockplotr/)
+### [stockplotr](https://nmfs-ost.github.io/stockplotr/)
 
 Roles: Author, contributor since 2024
 
 Goal: Create a centralized package that contains all of the figures and tables that are used when analyzing stock assessment model outputs, writing a report, and other various procedures performed during the stock assessment workflow.
 
-### [`nmfspalette`](https://nmfs-fish-tools.github.io/nmfspalette/)
+### [nmfspalette](https://nmfs-fish-tools.github.io/nmfspalette/)
 
 Roles: Maintainer, contributor since 2025
 
