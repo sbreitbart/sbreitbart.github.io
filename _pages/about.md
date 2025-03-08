@@ -11,32 +11,16 @@ redirect_from:
 author_profile: yes
 ---
 
-Hi there! I am an ecologist, evolutionary biologist, and data scientist. My goal is to strengthen our ecosystems by translating ecological data into insights that are meaningful for diverse audiences. I recently completed my PhD in Ecology and Evolutionary Biology at the [University of Toronto](https://eeb.utoronto.ca/), co-advised by Drs. [Marc Johnson](https://evoecolab.wordpress.com/) and [Helene Wagner](http://sites.utm.utoronto.ca/wagnerlab). *I have a new job! More details coming soon.*
+Hi there! I am an ecologist, evolutionary biologist, and data scientist. My goal is to strengthen our ecosystems by translating ecological data into insights that are meaningful for diverse audiences.
 
-My research focused on how urbanization influences the ecology and evolution of common milkweed (a favorite of Monarch butterflies). More and more people are moving to cities--- did you know that over half the human population lives in urban areas?!--- and by understanding how these unique environments affect wildlife on the long term, we can design resilient cities that act as healthy ecosystems for wildlife as well as people.
+In 2024, I completed my PhD in Ecology and Evolutionary Biology at the [University of Toronto](https://eeb.utoronto.ca/), where I studied how urbanization influences the ecology and evolution of common milkweed (a favorite of Monarch butterflies). After graduating, I started a job that combines some of my favorite things: programming, communication, and ecology! Here's the gist of what I do:
 
-I'm also developing a keen interest in coding well and teaching how to do so. I have co-instructed multiple R coding workshops at conferences (e.g. [ESA](https://sbreitbart.github.io/DataSci_for_Ecologists/), [CSEE, SORTEE](https://afilazzola.github.io/FastR/)) and [locally through UofT](https://sbreitbart.github.io/BGSS_Retreat_2021_Workshop/). I'm a certified instructor with [The Carpentries](https://carpentries.org/) and am an executive member of [UofT Coders](https://uoftcoders.github.io/).
+[NOAA Fisheries](https://www.fisheries.noaa.gov) scientists diligently monitor the population dynamics of flounder, salmon, and other economically important (and tasty) fish that swim in US federal waters. Their goal is to use this data to formulate harvest recommendations that maximize the amount of fish that can be caught and sold as seafood, prevent overfishing, and protect marine ecosystems. If that sounds like a lot of work, it is! These scientists are constantly analyzing data for *over 500 stocks* and writing extensive [stock assessment reports](https://www.fisheries.noaa.gov/topic/population-assessments/fish-stocks) to communicate their findings.
+
+I am a contractor who works in support of NOAA Fisheries. My main goal is to help develop two R packages ([asar](https://nmfs-ost.github.io/asar/) and [stockplotr](https://github.com/nmfs-ost/stockplotr)) that will allow fisheries scientists to write their stock assessment reports more reproducibly and efficiently. These reports can be hundreds of pages long and include dozens of figures and tables. It's been an amazing experience to learn from brilliant fisheries scientists and build the skills needed to develop R packages!
+
+![Screenshot of the {asar} R package homepage.](images/asar.png){width="450"} ![Screenshot of the {stockplotr} R package homepage.](images/stockplotr.png){width="450" height="204"}
 
 Before graduate school, I earned my B.A. in Biology with a Certificate in Integrative Genomics Sciences from [Wesleyan University](https://www.wesleyan.edu/). Next, I was lucky enough to spend two years as a staff scientist at an [ecological restoration firm](https://princetonhydro.com/) and learn about all sorts of things--- especially field work, multi-year project management, and the value of incredible coworkers.
 
-In my free time I like to go to concerts, explore Toronto's fascinating neighborhoods (there are >150!), tinker and learn new skills with [weekend coding projects](/portfolio.md), and contemplate the wonders of evolutionary resilience.
-
-
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <div style="flex: 0 0 48%; margin: 1%;">
-        <img src="./images/mw_multi.jpg" alt="Milkweed growing in downtown Toronto" style="width:100%">
-        <p style="text-align:center;">Milkweed growing in downtown Toronto</p>
-    </div>
-    <div style="flex: 0 0 48%; margin: 1%;">
-        <img src="./images/2018_fieldwork.jpg" alt="On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim" style="width:100%">
-        <p style="text-align:center;">On the search for urban milkweed. Toronto, 2018. PC: Samreen Munim</p>
-    </div>
-    <div style="flex: 0 0 48%; margin: 1%;">
-        <img src="./images/growth_chamber.jpg" alt="Milkweed seedlings in growth chamber" style="width:100%">
-        <p style="text-align:center;">Milkweed seedlings in growth chamber</p>
-    </div>
-    <div style="flex: 0 0 48%; margin: 1%;">
-        <img src="./images/KSR_2021.jpeg" alt="Surveying milkweed in common garden experiment" style="width:100%">
-        <p style="text-align:center;">Surveying milkweed in common garden experiment</p>
-    </div>
-</div>
+In my free time I like to read, quilt, explore the charm of little Rhody, and tinker with just-for-fun coding projects.
