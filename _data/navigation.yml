@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
-    
-  - title: "CV"
+  - title: "Resume & CV"
     url: /cv/    
+
+  - title: "Portfolio"
+    url: /portfolio/    
     
   - title: "Publications"
     url: /publications/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /research/
     
   - title: "Community Engagement"
     url: /communityengagement/
