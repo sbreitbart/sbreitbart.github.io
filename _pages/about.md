@@ -19,7 +19,7 @@ In 2024, I completed my PhD in Ecology and Evolutionary Biology at the [Universi
 
 I am a contractor who works in support of NOAA Fisheries. My main goal is to help develop two R packages ([asar](https://nmfs-ost.github.io/asar/) and [stockplotr](https://github.com/nmfs-ost/stockplotr)) that will allow fisheries scientists to write their stock assessment reports more reproducibly and efficiently. These reports can be hundreds of pages long and include dozens of figures and tables. It's been an amazing experience to learn from brilliant fisheries scientists and build the skills needed to develop R packages!
 
-![Screenshot of the {asar} R package homepage.](images/asar.png){width="450"} ![Screenshot of the {stockplotr} R package homepage.](images/stockplotr.png){width="450" height="204"}
+![Screenshot of the {asar} R package homepage.](images/asar.png)![Screenshot of the {stockplotr} R package homepage.](images/stockplotr.png)
 
 Before graduate school, I earned my B.A. in Biology with a Certificate in Integrative Genomics Sciences from [Wesleyan University](https://www.wesleyan.edu/). Next, I was lucky enough to spend two years as a staff scientist at an [ecological restoration firm](https://princetonhydro.com/) and learn about all sorts of things--- especially field work, multi-year project management, and the value of incredible coworkers.
 
