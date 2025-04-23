@@ -10,7 +10,7 @@ author_profile: true
 # Peer-Reviewed
 ## Journal Articles
 
-5\. **Breitbart, S.T.**, M.T.J. Johnson, H.H. Wagner. 2025. Anthropogenic landscape alteration, but not urbanization, influences non-adaptive evolution in common milkweed (*Asclepias syriaca* L.). *In review.*
+5\. **Breitbart, S.T.**, M.T.J. Johnson, H.H. Wagner. 2025. Anthropogenic Landscape Alteration, but Not Urbanization, Influences Non-Adaptive Evolution in Common Milkweed (*Asclepias syriaca* L.). Ecology and Evolution 15:e71250. [https://doi.org/10.1002/ece3.71250](https://doi.org/10.1002/ece3.71250)
 
 4\. **Breitbart, S.T.**, A.A. Agrawal,  H.H. Wagner,  M.T.J. Johnson. 2023. Urbanization and a green corridor do not impact genetic divergence in common milkweed (*Asclepias syriaca* L.). Scientific Reports 13:20437. [https://doi.org/10.1038/s41598-023-47524-8](https://www.nature.com/articles/s41598-023-47524-8)
 
