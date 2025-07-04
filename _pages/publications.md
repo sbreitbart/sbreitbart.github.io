@@ -30,7 +30,7 @@ author_profile: true
 
 ### Urban Evolution StoryMap
 
-**Breitbart, S.** [Urban Evolution: A Brief Introduction.](https://storymaps.arcgis.com/stories/446efee44f8d49578d3c62bfe2c25fc1) ESRI StoryMap. May 2020. *Interactive learning module created to introduce non-specialists to the basics of urban evolution.*
+**Breitbart, S.** [Urban Evolution: A Brief Introduction.](https://storymaps.arcgis.com/stories/7b7e30bb484e44eabbfb6bd87021fcda) ESRI StoryMap. May 2020. *Interactive learning module created to introduce non-specialists to the basics of urban evolution.*
 
 - Featured in [ESRI's June 8, 2020 StoryMaps Weekly ](https://storymaps.arcgis.com/stories/ffb285d8da2e49b79982049278da9688) and three collections:
   - [Outstanding stories from the ArcGIS StoryMaps community](https://storymaps.arcgis.com/collections/74981ffa579e4267bbbf66d488bb38fc?item=27)
