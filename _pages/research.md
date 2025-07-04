@@ -45,7 +45,11 @@ The results were complicated! The takeaway message? Urbanization, green corridor
 
 The results of my second chapter still left many questions. So, I turned my focus to the other side of evolution: the non-adaptive evolutionary processes, gene flow and genetic drift. I then asked **how urbanization impacts genetic diversity and differentiation in *A. syriaca*.** How might these forces be preventing adaptation from occurring?
 
-This information can shed light on how city life impacts non-adaptive evolution and provide a clearer "big picture" view of how city life impacts evolution in general. The associated manuscript is in review.
+This information would shed light on how city life impacts non-adaptive evolution and provide a clearer "big picture" view of how city life impacts evolution in general. 
+
+I collected leaves from 256 common milkweed plants spread throughout the GTA, then sequenced about 1% of their genome (don't worry, that's still *plenty* of information to explore!). Several months of bioinformatic analysis suggested that urbanization had not substantially influenced gene flow *or* genetic drift in these plants, which appeared to form a single genetic population (instead of, say, urban and rural groups). Generally, our findings suggested that this population had been minimally affected by the transition from rural to urban habitat. Instead, anthropogenic activity prior to urbanization, such as precontact Indigenous inhabitation and colonial settlement, may have been key players in this population's ecological and evolutionary history.
+
+[Read the published paper in Ecology and Evolution here](https://onlinelibrary.wiley.com/doi/10.1002/ece3.71250), and [explore the code on Zenodo here](https://doi.org/10.5281/zenodo.14911290).
 
 # Introduction to Urban Evolution
 
