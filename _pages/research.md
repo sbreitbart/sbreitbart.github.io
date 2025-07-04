@@ -53,4 +53,6 @@ I collected leaves from 256 common milkweed plants spread throughout the GTA, th
 
 # Introduction to Urban Evolution
 
-<iframe src="https://storymaps.arcgis.com/stories/7b7e30bb484e44eabbfb6bd87021fcda" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+Click [this link](https://storymaps.arcgis.com/stories/7b7e30bb484e44eabbfb6bd87021fcda) to learn more about urban evolution, through a Storymap!
+
+![Urban Evolution Storymap](https://github.com/sbreitbart/sbreitbart.github.io/blob/master/images/storymap_titlepage.png?raw=true "Urban Evolution Storymap")
