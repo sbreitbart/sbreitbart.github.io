@@ -11,7 +11,7 @@ redirect_from:
 author_profile: yes
 ---
 
-Hi there! I am an ecologist, evolutionary biologist, and data scientist. My goal is to strengthen our ecosystems by translating ecological data into insights that are meaningful for diverse audiences.
+Hi there! I am a [research software engineer](https://us-rse.org/about/what-is-an-rse/) with a background in ecology, evolutionary biology, and data science. My goal is to strengthen our ecosystems by translating ecological data into insights that are meaningful for diverse audiences.
 
 In 2024, I completed my PhD in Ecology and Evolutionary Biology at the [University of Toronto](https://eeb.utoronto.ca/), where I studied how urbanization influences the ecology and evolution of common milkweed (a favorite of Monarch butterflies). After graduating, I started a job that combines some of my favorite things: programming, communication, and ecology! Here's the gist of what I do:
 
