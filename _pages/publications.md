@@ -28,24 +28,28 @@ author_profile: true
 
 # Other Publications
 
-### Urban Evolution StoryMap
+## NOAA Fisheries Tech Memo
+
+Schiano, S., S. Saul, **S. Breitbart**, B. Li, K. Johnson, L. Ailloud, C. Askelrud, K. Doering, D. Hennen, E. Holmes, M. Oshima, M. Sculley, and B. Williams. 2026. Current Practices, Challenges, and Improvements to U.S. Federal Fisheries Assessment Workflows. NOAA Technical Memorandum NMFS-F/SPO-264, 29 p. (avail. at [https://doi.org/10.25923/c400-zq60](https://doi.org/10.25923/c400-zq60))
+
+## Urban Evolution StoryMap
 
 **Breitbart, S.** [Urban Evolution: A Brief Introduction.](https://storymaps.arcgis.com/stories/7b7e30bb484e44eabbfb6bd87021fcda) ESRI StoryMap. May 2020. *Interactive learning module created to introduce non-specialists to the basics of urban evolution.*
 
-- Featured in [ESRI's June 8, 2020 StoryMaps Weekly ](https://storymaps.arcgis.com/stories/ffb285d8da2e49b79982049278da9688) and three collections:
+- Featured in [ESRI's June 8, 2020 StoryMaps Weekly](https://storymaps.arcgis.com/stories/ffb285d8da2e49b79982049278da9688) and three collections:
   - [Outstanding stories from the ArcGIS StoryMaps community](https://storymaps.arcgis.com/collections/74981ffa579e4267bbbf66d488bb38fc?item=27)
   - [StoryMaps Resources for Higher Education](https://storymaps.arcgis.com/collections/2fd68a2fda0149008718dcde6083521b)
   - [Racial Equity Stories](https://storymaps.arcgis.com/collections/ea6022fc4bb646968cf94dc6789a8185?item=4)
 
 
-### Life in the City, a blog about urban evolution
+## Life in the City, a blog about urban evolution
 Several articles for [Life in the City](https://urbanevolution-litc.com/author/sophie-breitbart) including
 
   - [What is the “Indoor Biome”?](https://urbanevolution-litc.com/2019/09/03/what-is-the-indoor-biome/)
   - [Urbanization: Beyond Where the Sidewalk Ends](https://urbanevolution-litc.com/2019/07/30/urbanization-beyond-where-the-sidewalk-ends/).
 
 
-### Princeton Hydro
+## Princeton Hydro
 Three articles for [Princeton Hydro](https://www.princetonhydro.com)'s blog:
 
   - [Aquatic Organism Passage: Part One](http://www.princetonhydro.com/blog/aop-blog-series-1/)
@@ -53,5 +57,5 @@ Three articles for [Princeton Hydro](https://www.princetonhydro.com)'s blog:
   - [Four Ways Climate Change Could Affect Your Lake](https://www.princetonhydro.com/blog/climate-change/)
 
 
-### Circadian Rhythms in *D. melanogaster*
+## Circadian Rhythms in *D. melanogaster*
 **Breitbart, S.**, Hildebrandt, A., Possidente, B. 2010. [Assessing effects of sex, mating status, and a white-eye mutation in a co-isogenic background on circadian locomotor activity in *Drosophila melanogaster*.](http://www.ou.edu/journals/dis/DIS93/Breitbart%20171.pdf) Drosophila Information Service 93:171-175.

@@ -11,7 +11,9 @@ author_profile: true
 
 Roles: Author, contributor since 2024
 
-Goal: Automate stock assessment reports for NOAA science centers so that they are reproducible and cohesive across the agency. This project intends to create a streamlined workflow that allows the analyst to create a customized report tailored to their needs and requirements by the SSC, council, or other regional management organizations.
+Goal: Automate stock assessment reports for NOAA Fisheries stock assessment authors so that they are reproducible and cohesive across the agency. This project intends to create a streamlined workflow that allows the author to create a customized report tailored to their needs and requirements by the SSC, council, or other regional management organizations.
+
+One of this project's top goals is to facilitate the production of reports that are compliant with Section 508 accessibility standards, as manually adding these features can be challenging and time-consuming. We developed a novel workflow that added PDF tags and alternative text to Quarto-based reports (both of which are essential for passing accessibility tests), then shared our work with Quarto developers. They were very enthusiastic to hear about our approach (shown in the [asar::add_accessibility()](#0) function) and worked to integrate those features into Quarto 1.9, graciously including us in their [Acknowledgments](#0). For more information, [see my presentation](#0) on this topic.
 
 ### [stockplotr](https://nmfs-ost.github.io/stockplotr/)
 
@@ -26,6 +28,12 @@ Roles: Maintainer, contributor since 2025
 Goal: Provide an R color palette for ggplot2 using NOAA Fisheries branding colors.
 
 ## Workshops taught
+
+### [NOAA Fisheries Stock Assessment Workflows Workshop](https://nmfs-ost.github.io/workflows-workshop/)
+
+Co-taught with Sam Schiano eight times from January-May 2026: once at the National Stock Assessment Workshop in La Jolla, CA, once for each [NOAA Fisheries Science Center](#0), and once for a general NOAA Fisheries audience. The purpose of this workshop series was to give the agency's stock assessment report authors the knowledge and confidence to write their next report using a reproducible, efficient, and transparent workflow based on {asar} and {stockplotr}.
+
+<a href="https://github.com/nmfs-ost/workflows-workshop" class="btn btn-outline-success" role="button">Source code</a>
 
 ### [An Ecologist's Introduction to Data Science](https://sbreitbart.github.io/DataSci_for_Ecologists/)
 
